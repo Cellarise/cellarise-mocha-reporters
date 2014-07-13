@@ -1,0 +1,22 @@
+{
+  "name": "cellarise-mocha-reporters",
+  "description": "Custom mocha reporters.  json-bamboo is a mocha reporter for outputting test results in a format compatible with Atlassian Bamboo.",
+  "version": "0.1.0",
+  "author": "John Barry",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cellarise/cellarise-mocha-reporters.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/webdriverio/grunt-webdriver/blob/master/LICENSE-MIT"
+    }
+  ],
+  "keywords": [
+    "grunt",
+    "mocha",
+    "bamboo",
+    "reporters"
+  ]
+}
